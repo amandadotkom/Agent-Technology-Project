@@ -1,7 +1,0 @@
-To run the model:
-1. Click build world
-2. Click setup
-3. Click on an evacuation strategy
-4. Click go
-
-If the model is run without the world being built, or without having selected an evacuation strategy, it will not work.
